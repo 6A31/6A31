@@ -1,4 +1,4 @@
-#The script kidde!#
+## The script kidde! ##
 - 👋 Hi, I’m @ScobraScope
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python
