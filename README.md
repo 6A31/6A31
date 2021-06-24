@@ -1,9 +1,7 @@
+#The script kidde!
 - 👋 Hi, I’m @ScobraScope
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python
 
+**I create lots of discord bots and some other projects!**
 
-<!---
-ScobraScope/ScobraScope is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
