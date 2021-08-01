@@ -4,8 +4,7 @@ I am 16years old, and i live in Switzerland. I speak German & English and a bit 
 I teched myself how to code when i was 14. 
 
 I like to code because it gives me the ability to create something myself, without having to search for 3. party apps ;)
-
-I code alot of discord bots, and smaller python projects.
+Most of my repositorys are private, but i plan on adding more public soon.
 
 Website: https://6A31.com
 
