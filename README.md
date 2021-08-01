@@ -8,7 +8,9 @@ I like to code because it gives me the ability to create something myself, witho
 I code alot of discord bots, and smaller python projects.
 
 Website: https://6A31.com
+
 Discord: https://discord.gg/kjsdxkbtjw
+
 
 **I create lots of discord bots and some other projects!**
 
