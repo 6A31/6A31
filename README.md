@@ -1,10 +1,13 @@
 ## The script kidde! ##
 - 👋 Hi, I’m @ScobraScope
-I am 16years old, and i live in Switzerland. I speak German & English and a bit of french. 
-I teched myself how to code when i was 14. 
+- 🐍 I currently program in Python
 
-I like to code because it gives me the ability to create something myself, without having to search for 3. party apps ;)
-Most of my repositorys are private, but i plan on adding more public soon.
+I taught myself to code when I was 14. 
+I live in Switzerland and speak German & English & French. 
+
+I learned programming because I wanted to create something, and inspire others to create something. 
+
+Spoiler: I can be a crackhead sometimes, but I can focus whenever I need to. ;)
 
 Website: https://6A31.com
 
