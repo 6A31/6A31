@@ -13,7 +13,6 @@ Spoiler: I can be a crackhead sometimes, but I can focus whenever I need to. ;)
 
 ## Contact
 
-Website: https://6A31.com
+**[Webiste](https://6A31.com)**
 
-Discord: https://discord.gg/kjsdxkbtjw
-
+**[Discord](https://discord.6A31.com)**
