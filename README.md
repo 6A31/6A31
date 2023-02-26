@@ -1,5 +1,5 @@
 ## The script kidde! ##
-- 👋 Hi, I’m @ScobraScope
+- 👋 Hi, I’m @6A31
 - 🐍 I currently program in Python
 - **I create lots of discord bots and some other projects!**
 
