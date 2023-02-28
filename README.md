@@ -16,3 +16,6 @@ Spoiler: I can be a crackhead sometimes, but I can focus whenever I need to. ;)
 **[Webiste](https://6A31.com)**
 
 **[Discord](https://discord.6A31.com)**
+
+---
+<img src="https://github-readme-stats.vercel.app/api?username=6A31&show_icons=true"/>
