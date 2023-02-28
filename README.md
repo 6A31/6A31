@@ -11,7 +11,7 @@ I learned programming because I wanted to create something, and inspire others t
 
 Spoiler: I can be a crackhead sometimes, but I can focus whenever I need to. ;)
 ## Stack
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand&layout=compact&theme=dark"/>
 
 
 ## Contact
@@ -21,4 +21,4 @@ Spoiler: I can be a crackhead sometimes, but I can focus whenever I need to. ;)
 **[Discord](https://discord.6A31.com)**
 
 ---
-<img src="https://github-readme-stats.vercel.app/api?username=6A31&show_icons=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=6A31&show_icons=true&theme=dark"/>
