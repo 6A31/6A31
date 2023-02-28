@@ -10,6 +10,9 @@ I live in Switzerland and speak German & English & French.
 I learned programming because I wanted to create something, and inspire others to create something.
 
 Spoiler: I can be a crackhead sometimes, but I can focus whenever I need to. ;)
+## Stack
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand&layout=compact"/>
+
 
 ## Contact
 
