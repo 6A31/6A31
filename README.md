@@ -1,24 +1,18 @@
-## The script kidde! ##
-- 👋 Hi, I’m @6A31
-- 🐍 I currently program in Python
-- **I create lots of discord bots and some other projects!**
+## Hey there!
+- 👋 I'm @6A31  
+- I build bots and a variety of other projects.
 
-## About me
-I taught myself to code when I was 14. 
-I live in Switzerland and speak German & English & French. 
+## About Me
+I taught myself to code at the age of 14, driven by the desire to create and inspire.  
+I'm based in Switzerland and speak German, English, and French.  
+My passion is to build innovative solutions and share knowledge with others.
 
-I learned programming because I wanted to create something, and inspire others to create something.
-
-
-## Stack
+## Project Snapshot
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand&layout=compact&theme=dark"/>
 
-
 ## Contact
-
-**[Webiste](https://6A31.com)**
-
-**[Discord](https://discord.6A31.com)**
+**[Website](https://6A31.com)**  
+**[Discord](https://discord.6A31.com)**  
 
 ---
 <img src="https://github-readme-stats.vercel.app/api?username=6A31&show_icons=true&theme=dark"/>
