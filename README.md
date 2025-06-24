@@ -1,6 +1,6 @@
 ## Hey there!
 - 👋 I'm @6A31  
-- I build bots and a variety of other projects.
+- I build various python and C++ based projects
 
 ## About Me
 I taught myself to code at the age of 14, driven by the desire to create and inspire.  
