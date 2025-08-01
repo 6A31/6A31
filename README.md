@@ -8,7 +8,7 @@ I'm based in Switzerland and speak German, English, and French.
 My passion is to build innovative solutions and share knowledge with others.
 
 ## Project Snapshot
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand&layout=compact&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=6A31&layout=compact&theme=dark"/>
 
 ## Contact
 **[Website](https://6A31.com)**  
