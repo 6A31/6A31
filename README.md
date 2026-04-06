@@ -1,18 +1,13 @@
-## Hey there!
-- 👋 I'm @6A31  
-- I build various python and C++ based projects
+# Hey, I'm 6A31
 
-## About Me
-I taught myself to code at the age of 14, driven by the desire to create and inspire.  
-I'm based in Switzerland and speak German, English, and French.  
-My passion is to build innovative solutions and share knowledge with others.
+Self-taught developer from Switzerland. Started coding at 14. I build tools I want to use.
 
-## Project Snapshot
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=6A31&layout=compact&theme=dark"/>
+Currently working on **[TRIM](https://github.com/6A31/TRIM)** — a keyboard-first launcher with built-in AI for Windows and macOS.
 
-## Contact
-**[Website](https://6A31.com)**  
-**[Discord](https://discord.6A31.com)**  
+I mostly write Python, C++, and JavaScript.
 
----
-<img src="https://github-readme-stats.vercel.app/api?username=6A31&show_icons=true&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=6A31&layout=compact&theme=dark&hide_border=true"/>
+
+## Links
+
+[Website](https://6A31.com) · [Discord](https://discord.6A31.com)
