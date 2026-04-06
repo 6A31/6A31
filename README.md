@@ -6,7 +6,7 @@ Currently working on **[TRIM](https://github.com/6A31/TRIM)** — a keyboard-fir
 
 I mostly write Python, C++, and JavaScript.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=6A31&layout=compact&theme=dark&hide_border=true"/>
+<img src="https://6a31.com/images/preview.png?v=2"/>
 
 ## Links
 
